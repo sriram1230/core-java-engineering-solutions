@@ -21,3 +21,10 @@ This repository houses clean, modular Java implementations focused on data struc
 * **Version Control:** Git, GitHub
 * **Methodologies:** Object-Oriented Design, Modular Code Architecture# core-java-engineering-solutions
 Implementation of core Java programming paradigms and engineering mathematics algorithms
+
+ ## Active Projects
+
+### 1. Linear Circuit Matrix Solver (`CircuitSolver.java`)
+* **Description:** A mathematical utility program that solves simultaneous linear equations derived from Mesh or Nodal circuit analysis.
+* **Algorithm Used:** Implements determinant calculations via **Cramer's Rule** for $2 \times 2$ systems.
+* **How It Helps ECE:** Automates the tedious matrix calculations required when solving multi-loop circuits in Network Theory courses. 
